@@ -12,3 +12,7 @@ div {
     background-color: rgba(25, 4, 58, 0.603);
 
 }
+h1, h2, h3 {
+    position: fixed center;
+    color: yellow ;
+}
