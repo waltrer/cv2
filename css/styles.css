@@ -29,7 +29,7 @@ h3 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  float: top;
+  background-color: rgb(25, 4, 58);
 }
 
 .btn {
@@ -45,7 +45,7 @@ h3 {
   background-color: rgb(163, 71, 250);
 }
 
-image {
+img {
   border-bottom: 5%;
   top: 3%
 }
