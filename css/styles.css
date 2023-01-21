@@ -35,3 +35,6 @@ h1, h2, h3 {
   .btn:hover {
     background-color: rgb(163, 71, 250);
   }
+  .top-right {
+    position: right;
+  }
