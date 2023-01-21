@@ -1,40 +1,45 @@
 /* gracias w3schools*/
-body, html {
-    height: 100%;
+body,
+html {
+  height: 100%;
 }
 
-container { color:blanchedalmond;
-    position: auto;
-    background-color: rgba(25, 4, 58, 0.705)
+container {
+  color: blanchedalmond;
+  position: auto;
+  background-color: rgba(25, 4, 58, 0.705)
 }
 
 div {
 
-    background-color: rgba(25, 4, 58, 0.603);
+  background-color: rgba(25, 4, 58, 0.603);
 
 }
-h1, h2, h3 {
-    position: fixed center;
-    color: yellow ;
-    font-weight: bolder;
+
+h1,
+h2,
+h3 {
+  position: fixed center;
+  color: yellow;
+  font-weight: bolder;
 }
+
 #fondo {
-    background-image: url(https://img.freepik.com/free-vector/3d-earth-graphic-symbolizing-global-trade-illustration_456031-125.jpg?w=900&t=st=1674164638~exp=1674165238~hmac=367315ea478034e333f05c7e1834ca5b54f0092476ab77082151ed9c81c6f9b6);
-    background-position: center;
+  background-image: url(https://img.freepik.com/free-vector/3d-earth-graphic-symbolizing-global-trade-illustration_456031-125.jpg?w=900&t=st=1674164638~exp=1674165238~hmac=367315ea478034e333f05c7e1834ca5b54f0092476ab77082151ed9c81c6f9b6);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .btn {
-    background-color: rgba(25, 4, 58, 0.603);
-    border: none;
-    color: white;
-    padding: 12px 16px;
-    font-size: 16px;
-    cursor: pointer;
-  }
-  .btn:hover {
-    background-color: rgb(163, 71, 250);
-  }
-  .top-right {
-    position: right;
-  }
+  background-color: rgba(25, 4, 58, 0.603);
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(163, 71, 250);
+}
