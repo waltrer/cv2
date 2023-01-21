@@ -46,6 +46,9 @@ h3 {
 }
 
 img {
-  border-bottom: 5%;
-  top: 3%
+  border-bottom: 12px;
+  top: 5%
+}
+footer {
+  background-color: rgb(25, 4, 58);
 }
