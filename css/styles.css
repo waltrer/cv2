@@ -23,8 +23,12 @@ h3 {
   color: yellow;
   font-weight: bolder;
 }
- .txt-gallery {
+ .galeria {
 color: rgb(99, 75, 119);
+ }
+
+ .galeria:hover {
+  color: blanchedalmond;
  }
 
 
@@ -54,5 +58,6 @@ img {
   border-top: 8;
 }
 footer {
+  margin-bottom: 0%;
   background-color: rgb(25, 4, 58);
 }
