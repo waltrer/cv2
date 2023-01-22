@@ -23,15 +23,18 @@ h3 {
   color: yellow;
   font-weight: bolder;
 }
- .galeria {
-color: rgb(99, 75, 119);
- }
 
- .galeria:hover {
+.galeria {
+  color: rgb(99, 75, 119);
+}
+
+.galeria:hover {
   color: blanchedalmond;
- }
+}
 
- .galeria h2 {text-decoration: underline ;}
+.galeria h2 {
+  text-decoration: underline;
+}
 
 
 #fondo {
@@ -59,7 +62,12 @@ img {
   border-bottom: 12px;
   border-top: 8;
 }
+
 footer {
   margin-bottom: 0%;
   background-color: rgb(25, 4, 58);
+}
+
+span {
+  width: 50%;
 }
