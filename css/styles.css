@@ -36,7 +36,6 @@ h3 {
   text-decoration: underline;
 }
 
-
 #fondo {
   background-image: url(https://img.freepik.com/free-vector/3d-earth-graphic-symbolizing-global-trade-illustration_456031-125.jpg?w=900&t=st=1674164638~exp=1674165238~hmac=367315ea478034e333f05c7e1834ca5b54f0092476ab77082151ed9c81c6f9b6);
   background-position: center;
@@ -66,10 +65,6 @@ img {
 footer {
   margin-bottom: 0%;
   background-color: rgb(25, 4, 58);
-}
-
-span {
-  width: 50%;
 }
 
 .center {
