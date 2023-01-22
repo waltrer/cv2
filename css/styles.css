@@ -71,3 +71,8 @@ footer {
 span {
   width: 50%;
 }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
