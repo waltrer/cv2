@@ -1,0 +1,121 @@
+/* body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* headings */
+  h1, h2, h3 {
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #007bff;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  h3 {
+    font-size: 20px;
+    color: #555;
+  }
+  
+  /* links */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* buttons */
+  .button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* sections */
+  .section {
+    margin-top: 24px;
+  }
+  
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  
+  .section-header h2 {
+    margin-right: 12px;
+  }
+  
+  /* skills */
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .skill {
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 4px;
+    background-color: #eee;
+    color: #333;
+    font-size: 14px;
+    border-radius: 4px;
+  }
+  
+  /* experience */
+  .experience {
+    margin-bottom: 24px;
+  }
+  
+  .experience-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  
+  .experience-header h3 {
+    margin-right: 12px;
+  }
+  
+  .experience-item {
+    margin-bottom: 12px;
+  }
+  
+  .experience-item h4 {
+    margin-bottom: 4px;
+  }
+  
+  .experience-item p {
+    margin: 0;
+  }
+  
