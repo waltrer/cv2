@@ -16,14 +16,6 @@ div {
 
 }
 
-h1,
-h2,
-h3 {
-  position: fixed center;
-  color: yellow;
-  font-weight: bolder;
-}
-
 .galeria {
   color: rgb(99, 75, 119);
 }
@@ -62,9 +54,4 @@ img {
 footer {
   margin-bottom: 0%;
   background-color: rgb(25, 4, 58);
-}
-
-.center {
-  margin-left: auto;
-  margin-right: auto;
 }
