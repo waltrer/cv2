@@ -74,3 +74,7 @@ h3 {
 }
 
 #yo{padding left: 2%;}
+
+#ocultable {
+  display: none;
+}
