@@ -1,9 +1,17 @@
-/* gracias w3schools*/
+/* gracias w3schools y MDN*/
 body,
 html {
   height: 100%;
 }
+header{
+  padding-bottom: 2%;
+  border: 2%;
+ }
 
+ div{
+  border-bottom: solid black ;
+  padding-top: 2%;
+ }
 container {
   color: blanchedalmond;
   position: auto;
@@ -19,17 +27,6 @@ body {
   padding: 0;
 }
 
-.galeria {
-  color: rgb(99, 75, 119);
-}
-
-.galeria:hover {
-  color: blanchedalmond;
-}
-
-.galeria h2 {
-  text-decoration: underline;
-}
 
 #yo {
   background-color: rgb(30, 30, 53);
@@ -57,4 +54,10 @@ img {
 footer {
   margin-bottom: 0%;
   background-color: rgb(25, 4, 58);
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  margin-top: 0;
+  text-decoration: underline;
 }
