@@ -2,14 +2,14 @@
 function vermas () {
     var ocultable = document.getElementById("ocultable");
   var btn1 = document.getElementById("btn1");
-  var textoboton1 = document.getElementById("textobtn1");
+  var textoboton1 = document.getElementById("btn1");
 
   if (ocultable.style.display === "none") {
     ocultable.style.display = "inline";
     btn1.innerHTML = "ver mas"; 
   } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Ver menos"; 
+    ocultable.style.display = "none";
+    textoboton1.innerHTML = "Ver menos"; 
    ;
   }
 } 
