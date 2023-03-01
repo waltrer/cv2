@@ -68,4 +68,9 @@ h3 {
   text-decoration: underline;
 }
 
-#izquierda
+#izquierda {
+  padding-left: left: 2%;
+  border-right: solid rgb(58, 58, 58);
+}
+
+#yo{padding left: 2%;}
