@@ -39,9 +39,11 @@ body {
   font-size: 16px;
   cursor: pointer;
 }
+
 .oculto {
   display: none;
 }
+
 .btn:hover {
   background-color: rgb(163, 71, 250);
 }
@@ -69,12 +71,23 @@ h3 {
   border-right: solid rgb(58, 58, 58);
 }
 
-#yo{padding-left: 2%;}
+#yo {
+  padding-left: 2%;
+}
 
 #cuerpo {
   margin: 0 auto;
 }
+
 #yo {
   background-color: rgb(30, 30, 53);
   color: white;
+}
+
+#agradecimiento {
+  margin: 0 auto;
+}
+
+#contacto {
+  padding-right: 3%;
 }
