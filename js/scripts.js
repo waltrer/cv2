@@ -1,16 +1,13 @@
 //Funcion adaptada del ejemplo de w3schools https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_read_more
-function vermas (a, b) {
-    var ocultable = document.getElementById(a);
-  var btn = document.getElementById(i);
-;
+function verMasOMenos() {
+    var oculto = document.getElementById("mas");
+    var boton = document.getElementById("btn1");
 
-  if (a.style.display === "none") {
-    a.style.display = "inline";
-    btn.innerHTML = "ver mas"; 
-  } else {
-    a.style.display = "none";
-    b.innerHTML = "Ver menos"; 
-   ;
+    if (mas.style.display === "none") {
+      oculto.style.display = "inline";
+      boton.textContent = "ver menos";
+    } else {
+      oculto.style.display = "none";
+      boton.textContent = "ver mas";
+    }
   }
-} 
-document.getElementById("boton1").onClick = vermas()
