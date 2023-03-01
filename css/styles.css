@@ -1,8 +1,5 @@
 /* gracias w3schools y MDN*/
 body,
-html {
-  height: 100%;
-}
 
 header {
   padding-bottom: 2%;
@@ -32,10 +29,7 @@ body {
 }
 
 
-#yo {
-  background-color: rgb(30, 30, 53);
-  color: white;
-}
+
 
 .btn {
   background-color: rgba(25, 4, 58, 0.603);
@@ -45,7 +39,9 @@ body {
   font-size: 16px;
   cursor: pointer;
 }
-
+.oculto {
+  display: none;
+}
 .btn:hover {
   background-color: rgb(163, 71, 250);
 }
@@ -75,6 +71,10 @@ h3 {
 
 #yo{padding-left: 2%;}
 
-.oculto {
-  display: none;
+#cuerpo {
+  margin: 0 auto;
+}
+#yo {
+  background-color: rgb(30, 30, 53);
+  color: white;
 }
