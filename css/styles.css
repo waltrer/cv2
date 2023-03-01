@@ -69,6 +69,8 @@ h3 {
 #izquierda {
   padding-left: 2%;
   border-right: solid rgb(58, 58, 58);
+  padding-right: 3%;
+  word-break: break-all;
 }
 
 #yo {
@@ -86,10 +88,4 @@ h3 {
 
 #agradecimiento {
   margin: 0 auto;
-}
-
-#contacto {
-  padding-right: 3%;
-  overflow: visible;
-  word-break: break-all;
 }
