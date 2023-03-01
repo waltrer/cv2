@@ -1,7 +1,7 @@
 /* gracias w3schools y MDN*/
 body {
   font-family: Arial, sans-serif;
-  font-size: 16px;
+  font-size: medium;
   color: #333;
   background-color: #fff;
   margin: 0;
@@ -15,6 +15,9 @@ header {
   padding-bottom: 2%;
   border: 2%;
   border: 3%;
+}
+img {
+  width: 100%;
 }
 
 .sector {
@@ -61,6 +64,7 @@ footer {
 h1,
 h2,
 h3 {
+
   font-weight: bold;
   margin-top: 0;
   text-decoration: underline;
@@ -69,8 +73,11 @@ h3 {
 #izquierda {
   padding-left: 2%;
   border-right: solid rgb(58, 58, 58);
+font-size:small;
 }
-
+#izquierda h3 {
+  font-size: small;
+}
 #yo {
   padding-left: 2%;
 }
