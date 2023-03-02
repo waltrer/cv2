@@ -8,6 +8,6 @@ function verMasOMenos(ocult, btn) {
     boton.textContent = "ver menos";
   } else {
     oculto.style.display = "none";
-    boton.textContent = "ver mas";
+    boton.textContent = "ver más";
   }
 }
